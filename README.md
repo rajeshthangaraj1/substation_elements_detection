@@ -25,18 +25,18 @@ pip install ultralytics torch torchvision torchaudio
 pip install opencv-python gradio pillow
 
 🚀 Usage
-1. Clone the repository
+## 1. Clone the repository
 
 git clone https://github.com/<your-username>/substation_elements_detection.git
 cd substation_elements_detection
 
-2. Run the notebook
+## 2. Run the notebook
 
 Open in Jupyter/Colab and execute step by step:
 jupyter notebook substation_elements_detection.ipynb
 
 
-3. Launch the Gradio demo
+## 3. Launch the Gradio demo
 
 If you already have trained weights (best.pt), you can run the app to test images interactively:
 
